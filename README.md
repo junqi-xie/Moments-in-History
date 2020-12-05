@@ -1,6 +1,6 @@
 # Moments in History
 
-This repository contains the final project for EE101 (2020 Spring). This project aims to show academic progress in history with awards in various academic domains.
+This repository contains the final project for ICE2604 (2020 Spring). This project aims to show academic progress in history with awards in various academic domains.
 
 **[View Live Preview](https://junqi-xie.github.io/Moments-in-History/)**
 
